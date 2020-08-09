@@ -14,7 +14,7 @@
     <br>
     <br>
     <div class="container">
-      <p class="h1 text-justify">
+      <p class="h1 text-justify ">
       Django application with User and ActivityPeriod models, write a custom management command to populate the database with some dummy data, and design an API to serve that data in the json format given above.
       </p>
       <br>
@@ -27,17 +27,17 @@
       <p class="h4">
         To get all Members details.
       </p>
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron bg-secondary text-white">
         <p class="h4">
-          GET {{domain}}/api/v1/show/members
+          GET &nbsp; {{domain}}/api/v1/show/members
         </p>
       </div>
       <p class="h4">
-        To spefic Member details.
+        To get spefic Member details.
       </p>
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron bg-secondary text-white">
         <p class="h4">
-          GET {{domain}}/api/v1/show/member/{id}
+          GET &nbsp; {{domain}}/api/v1/show/member/{id}
         </p>
       </div>
       <br>
@@ -48,11 +48,18 @@
         Add Member
       </p>
       <p class="h4">
-        To get all Members details.
+        To add a new Member to the database. The ID is required other values can be Updated in the Update Section.
       </p>
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron bg-secondary text-white">
         <p class="h4">
-          GET {{domain}}/api/v1/show/members
+          POST &nbsp; {{domain}}/api/v1/add/member<br>
+          <br>
+          Content-Type:application/json;charset=UTF-8<br>
+          {<br>
+            &nbsp;&nbsp;"id" : "id",<br>
+            &nbsp;&nbsp;"real_name" : "name",<br>
+            &nbsp;&nbsp;"tz" : "timeZone",<br>
+          }
         </p>
       </div>
       <br>
@@ -63,11 +70,42 @@
         Add Activity Period
       </p>
       <p class="h4">
-        To get all Members details.
+        To add the Activity Period to the specific member.
       </p>
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron bg-secondary text-white">
         <p class="h4">
-          GET {{domain}}/api/v1/show/members
+          POST &nbsp; {{domain}}/api/v1/add/activity_period/{id}<br>
+          <br>
+          Content-Type:application/json;charset=UTF-8<br>
+          {<br>
+            &nbsp;&nbsp;"start_time" : "Mar 1 2020 11:11AM",<br>
+            &nbsp;&nbsp;"end_time" : "Mar 1 2020 2:00PM",<br>
+          }
+        </p>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+      <p class="h2">
+        Update Member
+      </p>
+      <p class="h4">
+        To Update a specific Member. If the key which you are trying to update is not available then key value pair is inserted as a new record.
+      </p>
+      <div class="jumbotron bg-secondary text-white">
+        <p class="h4">
+
+          PUT &nbsp; {{domain}}/api/v1/update/member/{id}<br>
+          <br>
+          Content-Type:application/json;charset=UTF-8<br>
+          {<br>
+            &nbsp;&nbsp;"key1" : "value1",<br>
+            &nbsp;&nbsp;"key2" : "value2",<br>
+            &nbsp;&nbsp;"key3" : "value3",<br>
+            &nbsp;&nbsp;........<br>
+            &nbsp;&nbsp;"keyN" : "valueN",<br>
+          }
         </p>
       </div>
       <br>
@@ -78,28 +116,14 @@
         Delete Member
       </p>
       <p class="h4">
-        To delete a Member from the database.
+        To delete a Member from the database. The specified ID will be deleted from the Database.
       </p>
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron bg-secondary text-white">
         <p class="h4">
-          GET {{domain}}/api/v1/delete/member/{id}
+          DELETE &nbsp; {{domain}}/api/v1/delete/member/{id}
         </p>
       </div>
-      <br>
-      <br>
-      <br>
-      <br>
-      <p class="h2">
-        Show Members
-      </p>
-      <p class="h4">
-        To get all Members details.
-      </p>
-      <div class="jumbotron jumbotron-fluid">
-        <p class="h4">
-          GET {{domain}}/api/v1/show/members
-        </p>
-      </div>
+
 
     </div>
 

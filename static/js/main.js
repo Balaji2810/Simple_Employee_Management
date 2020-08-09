@@ -32,7 +32,7 @@ $(document).ready(function(){
     }
     else
     {
-      AJAXPromise("GET", "/api/v1/show/members/"+id).then((success_data) => {
+      AJAXPromise("GET", "/api/v1/show/member/"+id).then((success_data) => {
           $('#output').html(JSON.stringify(success_data,null, 1));
       },(error)=>{
         $('#output').html(JSON.stringify(error["responseJSON"],null, 1));
@@ -132,7 +132,7 @@ $(document).ready(function(){
         alert(JSON.stringify(error["responseJSON"],null, 1));
       });
   }
-  
+
   });
 
   $("#add_member_tab").click(function(){

@@ -1,8 +1,8 @@
-#Django application with User and ActivityPeriod models, write a custom management command to populate the database with some dummy data, and design an API to serve that data in the json format given above.
+# Django application with User and ActivityPeriod models, write a custom management command to populate the database with some dummy data, and design an API to serve that data in the json format given above.
 
 
 
-##Show Members
+## Show Members
 
 > To get all Members details.
 ```
@@ -14,7 +14,7 @@ GET   localhost:8000/api/v1/show/member/{id}
 ```
 
 
-##Add Member
+## Add Member
 
 > To add a new Member to the database. The ID is required other values can be Updated in the Update Section.
 ```
@@ -29,7 +29,7 @@ Content-Type:application/json;charset=UTF-8
 ```
 
 
-##Add Activity Period
+## Add Activity Period
 
 > To add the Activity Period to the specific member.
 ```
@@ -43,7 +43,7 @@ Content-Type:application/json;charset=UTF-8
 ```
 
 
-##Update Member
+## Update Member
 
 > To Update a specific Member. If the key which you are trying to update is not available then key value pair is inserted as a new record.
 ```
@@ -60,7 +60,7 @@ Content-Type:application/json;charset=UTF-8
 ```
 
 
-##Delete Member
+## Delete Member
 
 > To delete a Member from the database. The specified ID will be deleted from the Database.
 ```

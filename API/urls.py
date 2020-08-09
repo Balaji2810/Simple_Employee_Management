@@ -7,4 +7,6 @@ urlpatterns = [
     path('show/members', views.show_members, name = 'Show Members'),
     path('show/members/<str:id>', views.show_member, name = 'Show Member with id'),
     path('add/activity_period/<str:id>', views.add_activity_period, name = 'Add Activity Period'),
+    path('update/member/<str:id>', views.update_member, name = 'Update Member with id'),
+    path('delete/member/<str:id>', views.delete_member, name = 'Delete Member with id'),
 ]

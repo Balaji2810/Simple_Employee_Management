@@ -586,3 +586,816 @@ DEBUG:asyncio:Using selector: SelectSelector
 DEBUG:asyncio:Using selector: SelectSelector
 INFO:django.utils.autoreload:Watching for file changes with StatReloader
 DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py", line 6, in index
+    render("base.html")
+TypeError: render() missing 1 required positional argument: 'template_name'
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py", line 6, in index
+    render("template/base.html")
+TypeError: render() missing 1 required positional argument: 'template_name'
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py", line 6, in index
+    render("templates/base.html")
+TypeError: render() missing 1 required positional argument: 'template_name'
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\Simple_Employee_Management\settings.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py", line 6, in index
+    render("templates/base.html")
+TypeError: render() missing 1 required positional argument: 'template_name'
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py", line 6, in index
+    render("base.html")
+TypeError: render() missing 1 required positional argument: 'template_name'
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\Simple_Employee_Management\settings.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 179, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py", line 6, in index
+    render("base.html")
+TypeError: render() missing 1 required positional argument: 'template_name'
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\Simple_Employee_Management\settings.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\Simple_Employee_Management\settings.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view UI.views.index didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\Simple_Employee_Management\settings.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view UI.views.index didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\Simple_Employee_Management\settings.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 186, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Balaji\AppData\Local\Programs\Python\Python36\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    "instead." % name
+ValueError: The view UI.views.index didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\UI\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /api/v1/show/members/
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /api/v1/show/members/
+WARNING:django.request:Not Found: /api/v1/show/members/
+WARNING:django.request:Not Found: /api/v1/show/members/
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE3
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE0
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE0
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/show/members/W012A3CDE2
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/add/member
+WARNING:django.request:Bad Request: /api/v1/add/member
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/add/activity_period/W0597B5IB
+WARNING:django.request:Bad Request: /api/v1/add/activity_period/W0597B5IB
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\urls.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\urls.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\urls.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+WARNING:django.request:Bad Request: /api/v1/update/members/W0597B5IB
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/W0597B5IB2
+WARNING:django.request:Bad Request: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/W0597B5IB
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\urls.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/delete/members/W0597B5IB
+WARNING:django.request:Bad Request: /api/v1/delete/members/W0597B5IB
+WARNING:django.request:Bad Request: /api/v1/show/members/W059728IB
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /api/v1/update/member/sfsdfsdf
+WARNING:django.request:Not Found: /api/v1/update/member/sfsdfsdf
+WARNING:django.request:Not Found: /api/v1/update/member/sfsdfsdf
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /api/v1/update/member/asdasd
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/saedfsdff
+WARNING:django.request:Bad Request: /api/v1/update/members/member
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+DEBUG:asyncio:Using selector: SelectSelector
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+ERROR:django.request:Internal Server Error: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Bad Request: /api/v1/update/members/testing
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\urls.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Bad Request: /api/v1/delete/member/testing2
+WARNING:django.request:Bad Request: /api/v1/delete/member/testing2
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:C:\Users\Balaji\Documents\Simple_Employee_Management\API\views.py changed, reloading.
+DEBUG:asyncio:Using selector: SelectSelector
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
